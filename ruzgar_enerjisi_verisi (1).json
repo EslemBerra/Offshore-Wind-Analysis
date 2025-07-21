@@ -1,0 +1,182 @@
+[
+ {
+  "bolge": "Ege",
+  "city": "Mugla",
+  "ruzg_hizi": 5.9,
+  "kapasite_faktoru": 0.45,
+  "derinlik": 641,
+  "mesafe_kiyiya": 98,
+  "lat": 36.7,
+  "lon": 27.2
+ },
+ {
+  "bolge": "Ege",
+  "city": "Izmir",
+  "ruzg_hizi": 8.4,
+  "kapasite_faktoru": 0.46,
+  "derinlik": 75,
+  "mesafe_kiyiya": 20,
+  "lat": 38.4,
+  "lon": 26.1
+ },
+ {
+  "bolge": "Ege",
+  "city": "Aydin",
+  "ruzg_hizi": 11,
+  "kapasite_faktoru": 0.44,
+  "derinlik": 175,
+  "mesafe_kiyiya": 18.5,
+  "lat": 37.8,
+  "lon": 27.04
+ },
+ {
+  "bolge": "Ege",
+  "city": "Çanakkale",
+  "ruzg_hizi": 8.5,
+  "kapasite_faktoru": 0.47,
+  "derinlik": 97,
+  "mesafe_kiyiya": 28,
+  "lat": 39.6,
+  "lon": 25.8
+ },
+ {
+  "bolge": "Ege",
+  "city": "Balikesir",
+  "ruzg_hizi": 7.9,
+  "kapasite_faktoru": 0.47,
+  "derinlik": 55,
+  "mesafe_kiyiya": 12,
+  "lat": 39.2,
+  "lon": 26.4
+ },
+ {
+  "bolge": "Marmara",
+  "city": "Istanbul",
+  "ruzg_hizi": 8,
+  "kapasite_faktoru": 0.48,
+  "derinlik": 815,
+  "mesafe_kiyiya": 20,
+  "lat": 41.8,
+  "lon": 28.4
+ },
+ {
+  "bolge": "Marmara",
+  "city": "Tekirdag",
+  "ruzg_hizi": 8.2,
+  "kapasite_faktoru": 0.49,
+  "derinlik": 1109,
+  "mesafe_kiyiya": 21,
+  "lat": 40.8,
+  "lon": 27.6
+ },
+ {
+  "bolge": "Marmara",
+  "city": "Kocaeli",
+  "ruzg_hizi": 7.7,
+  "kapasite_faktoru": 0.46,
+  "derinlik": 72,
+  "mesafe_kiyiya": 3.5,
+  "lat": 40.7,
+  "lon": 29.5
+ },
+ {
+  "bolge": "Marmara",
+  "city": "Yalova",
+  "ruzg_hizi": 7.6,
+  "kapasite_faktoru": 0.45,
+  "derinlik": 354,
+  "mesafe_kiyiya": 15,
+  "lat": 40.6,
+  "lon": 28.7
+ },
+ {
+  "bolge": "Karadeniz",
+  "city": "Samsun",
+  "ruzg_hizi": 6.5,
+  "kapasite_faktoru": 0.4,
+  "derinlik": 80,
+  "mesafe_kiyiya": 13,
+  "lat": 41.4,
+  "lon": 36.3
+ },
+ {
+  "bolge": "Karadeniz",
+  "city": "Trabzon",
+  "ruzg_hizi": 6.6,
+  "kapasite_faktoru": 0.41,
+  "derinlik": 30,
+  "mesafe_kiyiya": 1.2,
+  "lat": 41.06,
+  "lon": 39.2
+ },
+ {
+  "bolge": "Karadeniz",
+  "city": "Ordu",
+  "ruzg_hizi": 6.4,
+  "kapasite_faktoru": 0.39,
+  "derinlik": 38,
+  "mesafe_kiyiya": 1.4,
+  "lat": 41.1,
+  "lon": 37.7
+ },
+ {
+  "bolge": "Karadeniz",
+  "city": "Sinop",
+  "ruzg_hizi": 6.8,
+  "kapasite_faktoru": 0.42,
+  "derinlik": 69,
+  "mesafe_kiyiya": 3,
+  "lat": 42.03,
+  "lon": 35.2
+ },
+ {
+  "bolge": "Karadeniz",
+  "city": "Zonguldak",
+  "ruzg_hizi": 6.7,
+  "kapasite_faktoru": 0.41,
+  "derinlik": 504,
+  "mesafe_kiyiya": 5.5,
+  "lat": 41.4,
+  "lon": 31.6
+ },
+ {
+  "bolge": "Akdeniz",
+  "city": "Antalya",
+  "ruzg_hizi": 6.8,
+  "kapasite_faktoru": 0.42,
+  "derinlik": 117,
+  "mesafe_kiyiya": 6.7,
+  "lat": 36.7,
+  "lon": 30.8
+ },
+ {
+  "bolge": "Akdeniz",
+  "city": "Mersin",
+  "ruzg_hizi": 7,
+  "kapasite_faktoru": 0.43,
+  "derinlik": 40,
+  "mesafe_kiyiya": 11.8,
+  "lat": 36.6,
+  "lon": 34.7
+ },
+ {
+  "bolge": "Akdeniz",
+  "city": "Adana",
+  "ruzg_hizi": 6.7,
+  "kapasite_faktoru": 0.41,
+  "derinlik": 30.5,
+  "mesafe_kiyiya": 11.5,
+  "lat": 36.4,
+  "lon": 35.4
+ },
+ {
+  "bolge": "Akdeniz",
+  "city": "Hatay",
+  "ruzg_hizi": 6.9,
+  "kapasite_faktoru": 0.43,
+  "derinlik": 130,
+  "mesafe_kiyiya": 20,
+  "lat": 36.2,
+  "lon": 35.5
+ }
+]
